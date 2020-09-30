@@ -1,4 +1,4 @@
-### Theo's Tribute page
+# Theo's Tribute page
 
 ## freeCodeCamp.org
 
