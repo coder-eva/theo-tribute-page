@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=David+Libre:wght@400;500;700&display=swap");
+body {
+  font-family: "david libre", serif;
+  background-color: #fff;
+}
+
+#main {
+  margin: 5% 30%;
+}
+
+h1 {
+  color: #000;
+  background-color: #f0efeb;
+  padding: 20px;
+}
+
+h2,
+h3 {
+  color: #cb997e;
+}
+
+li {
+  color: #b7b7a4;
+}
+
+img {
+  max-width: 40%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+figcaption {
+  padding: 10px;
+  text-align: center;
+  font-size: smaller;
+}
+
+#tribute-info {
+  background-color: #f0efeb;
+}
+
+#tribute-link {
+  color: #cb997e;
+}
